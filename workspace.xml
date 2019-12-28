@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="feb441d8-a2fc-43a7-a016-4e94abe904ed" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="" />
+      <path value="" />
+      <path value="$PROJECT_DIR$/../API/API/src" />
+      <path value="$PROJECT_DIR$/../API/API/vendor" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UtHPO0DZhonOZ2ETBx3aITe1o6" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main.php" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="feb441d8-a2fc-43a7-a016-4e94abe904ed" name="Default Changelist" comment="" />
+      <created>1576168946801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576168946801</updated>
+      <workItem from="1576168954159" duration="937000" />
+      <workItem from="1576240744481" duration="783000" />
+      <workItem from="1576259772784" duration="430000" />
+      <workItem from="1576343685842" duration="97000" />
+      <workItem from="1576343799326" duration="1792000" />
+      <workItem from="1576345645796" duration="1826000" />
+      <workItem from="1576353123201" duration="1007000" />
+      <workItem from="1576425340774" duration="94000" />
+      <workItem from="1576858860167" duration="564000" />
+      <workItem from="1576871673810" duration="342000" />
+      <workItem from="1577014885339" duration="800000" />
+      <workItem from="1577302104573" duration="399000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

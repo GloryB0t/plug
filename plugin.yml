@@ -1,0 +1,19 @@
+name: Test
+version: 0.1
+api: 3.10.0
+main: Test
+author: NewPlayer
+
+command:
+  bonjour:
+    description: "Permet de dire bonjour au serveur"
+    usage: "/bonjour"
+    permissions:
+    aliases: 'bjr'
+
+command2:
+  bonsoir:
+    description: "Vous répondra bonsoir"
+    usage: "/bonsoir"
+    aliases: 'bsr'
+
